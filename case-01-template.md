@@ -28,7 +28,7 @@ On 22 February 2026, Mexican military forces conducted an operation in Guadalaja
 ## 4. Assessment
 The image is consistent with the documented wave of retaliatory vehicle arson carried out by CJNG-linked actors immediately after the death of El Mencho. High confidence that the photo was taken in Guadalajara, Jalisco, immediately on 22 February 2026.  
 
-Visible TTPs include the use of stolen or seized civilian vehicles as improvised roadblocks through arson — a pattern previously observed in CJNG responses to high-profile operations like the intelligence raid on a clandestine cartel meeting in Ixtlahuacán del Río, back in August 2022. This tactic is knowm as narcobloqueos (narco-blockades)
+Visible TTPs include the use of stolen or seized civilian vehicles as improvised roadblocks through arson — a pattern previously observed in CJNG responses to high-profile operations like the intelligence raid on a clandestine cartel meeting in Ixtlahuacán del Río, back in August 2022. This tactic is known as narcobloqueos (narco-blockades)
 
 ## 5. Gaps & Limitations
 - Exact street or neighborhood has not been confirmed.
